@@ -1,2 +1,2 @@
 # Alleviate
-Alleviate is a discord bot which eases moderation within Discord. Coded in Raw Discord.js.
+Alleviate, taking discord moderation to another level.
